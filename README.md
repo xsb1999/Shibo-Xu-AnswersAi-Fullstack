@@ -14,6 +14,10 @@ node.js (express)
 
 MongoDB
 
+**LLM:** 
+
+OpenAI
+
 ## How to run
 
 ### 1. Install in local
