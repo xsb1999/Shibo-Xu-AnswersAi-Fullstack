@@ -1,4 +1,4 @@
-# Shibo-Xu-AnswersAi-Fullstack
+# chatApp
 
 ## Project Structure
 
